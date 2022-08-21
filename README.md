@@ -9,3 +9,4 @@
 
 ![image](https://user-images.githubusercontent.com/107030716/185805160-72a62871-b56a-4c3c-a9a4-bf1e0b2858e3.png)
 
+![image](https://github.com/Soni-Test/EDA-Airbnb-Capstone-Project-/blob/main/Sonica_Sinha_Main_Notebook_EDA_Airbnb_Bookings.ipynb)
