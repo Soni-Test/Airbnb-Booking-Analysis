@@ -5,4 +5,4 @@
 ## This dataset has around 49,000 observations in it with 16 columns and it is a mix between categorical and numeric values.
 
 ![image](https://user-images.githubusercontent.com/107030716/185804472-036bad29-bf08-4e0c-b070-afc2804f2de7.png)
-!(https://colab.research.google.com/drive/1xNite-Zr_WbLYPwa5JtjlkbVUsQytfzT#scrollTo=71Y1DDDdLFnH)
+![image](https://colab.research.google.com/drive/1xNite-Zr_WbLYPwa5JtjlkbVUsQytfzT#scrollTo=71Y1DDDdLFnH)
