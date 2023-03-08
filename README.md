@@ -1,4 +1,4 @@
-# EDA - Airbnb Booking Analysis: Capstone project-1
+# EDA - Airbnb Booking Analysis
 
 <a href="https://colab.research.google.com/drive/1xNite-Zr_WbLYPwa5JtjlkbVUsQytfzT#scrollTo=71Y1DDDdLFnH" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
 
